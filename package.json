@@ -1,0 +1,31 @@
+{
+  "name": "redentropy",
+  "version": "0.1.0",
+  "description": "Red Entropy",
+  "contributors": [
+    "David Leoni  https://github.com/DavidLeoni"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidLeoni/redentropy.git"
+  },
+  "keywords": [
+    "compression",
+    "matrixes",
+    "entropy"    
+  ],
+  "author": "David Leoni",
+  "license": "Apachev2.0",
+  "bugs": {
+    "url": "https://github.com/DavidLeoni/redentropy/issues"
+  },
+  "homepage": "https://github.com/DavidLeoni/redentropy.git",
+  "scripts": {
+      "build" : "npm install && tsc"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+      "typescript":"^1.7.5"
+  }
+}
